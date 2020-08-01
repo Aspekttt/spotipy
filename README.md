@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/Mee6/spotipy)](https://repl.it/github/Mee6/spotipy)
 # Spotipy - a Python client for The Spotify Web API
 
 ## Description
